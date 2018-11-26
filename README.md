@@ -3,7 +3,9 @@ A front-end to-do-list built in HTML5, CSS3, JavaScript, and  jQuery.
 
 
 -Uses https://uigradients.com/#CalmDarya for background
+
 -Uses https://fontawesome.com/ for icons
+
 -Uses Google Fonts for Roboto
 
 
